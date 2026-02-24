@@ -1,0 +1,15 @@
+.venv/
+venv/
+*.pt
+*.pth
+*.safetensors
+*.rng
+Helsinki-NLP/
+runs/
+__pycache__/
+tokenizer_*.json
+*.pyc
+results/
+=1.1.0
+uv.lock
+*.png
